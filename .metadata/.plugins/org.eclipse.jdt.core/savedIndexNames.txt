@@ -1,2 +1,0 @@
-INDEX VERSION 1.134+C:\UADE\2° AÑO\9) PARADIGMA ORIENTADO A OBJETOS\Ejercicios_Clase2\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
